@@ -1,0 +1,17 @@
+## Writing Your Code alongwith GitKraken ##
+
+# 1) git init
+# 2) git add .
+# 3) git commit -m "write a message here"
+# 4) git status
+# 5) git log (hit 'q' to exit)
+# 6) git checkout (paste in unique commit id)
+#
+# These will allow you to time travel through your code.
+
+## Git Remote Commands ##
+
+# 1) git remote add origin (url)
+# 2) git remote -v
+# 4) git push origin master
+# 5) git pull origin master
